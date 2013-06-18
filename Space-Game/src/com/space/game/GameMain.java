@@ -34,6 +34,7 @@ public class GameMain implements ApplicationListener {
 		sprite.setOrigin(sprite.getWidth()/2, sprite.getHeight()/2);
 		sprite.setPosition(-sprite.getWidth()/2, -sprite.getHeight()/2);
 		//komentuje
+		///coososo
 	}
 
 	@Override
